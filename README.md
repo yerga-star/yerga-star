@@ -12,24 +12,14 @@ I'm a passionate front-end and back-end developer with a strong background in va
 - 🌐 **APIs:** SOAP and REST
 - 🖥️ **Server Administration:** Windows and Linux
 - 🔄 **Other:** Website rebuilds, system administration, Active Directory
+-  **Node.js and Express:** Experienced in building server-side applications using Node.js and Express.
+
 
 ## Experience
 
-- Developed and maintained web applications using React and Next.js.
-- Integrated APIs for seamless data exchange between systems.
-- Managed server infrastructure, ensuring high availability and security.
-- Rebuilt websites to improve performance and user experience.
-
-## Get in Touch
-
-- LinkedIn: linkedin.com/in/yerga-dagnaw
-- Portfolio:
-- Email: yerga968@gmail.com
-- ## Experience
-
 ### Bank of Abyssinia
 *Software Developer & System Administrator*  
-*Nov 2021*
+*Nov 2021 - present*
 
 - Developed and maintained internal systems for the bank.
 - Integrated external services with internal systems via API integration.
@@ -38,7 +28,7 @@ I'm a passionate front-end and back-end developer with a strong background in va
 - Ensured smooth operation and upkeep of systems, and managed large volumes of data efficiently.
 ### Minab IT Solutions
 *Junior IT Officer*  
-*AUG 2021*
+*AUG 2021 - Nov 2021*
 
 - Assisted in the management of IT infrastructure and systems.
 - Provided technical support to end users.
@@ -85,6 +75,14 @@ The WordPress Site for ECA.
 - **PHP**: Developed custom PHP code for implementing specific features and functionality.
 - **HTML/CSS**: Used HTML and CSS for designing and styling the website.
 - **JavaScript**: Implemented JavaScript for client-side interactivity and dynamic content.
+## Get in Touch 🚀
 
+I'm always excited to connect with fellow developers, collaborate on interesting projects, or just have a chat about technology. Here are a few ways you can reach out to me:
+
+- **LinkedIn**: linkedin.com/in/yerga-dagnaw - Let's connect and explore potential collaborations!
+- **Portfolio**: - Check out some of my previous projects and get a feel for my work.
+- **Email**: yerga968@gmail.com - Drop me a message, and I'll get back to you as soon as possible.
+
+Whether you're looking to discuss a project, share ideas, or just say hello, I'd love to hear from you!
 
 Let's connect and discuss how we can collaborate on exciting projects!
