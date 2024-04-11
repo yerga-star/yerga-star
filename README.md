@@ -58,9 +58,8 @@ The First Aid Android Application is a mobile application designed to provide us
 
 The First Aid Android Application aims to educate and empower users to respond effectively to medical emergencies, potentially saving lives in critical situations. By providing easy access to essential first aid information and emergency contact details, the app serves as a valuable tool for individuals, families, and communities.
 
-## WordPress Site for Government Organization
-
-The WordPress Site for ECA.
+## WordPress Site
+The WordPress Site for ECA (for Government Organization) and for Bank of abyssinia.
 
 #### Features
 
