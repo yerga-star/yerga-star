@@ -56,7 +56,6 @@ I'm always keen to discuss cloud-native architecture, observability, or interest
 
 * **LinkedIn:** [linkedin.com/in/yerga-dagnaw](https://linkedin.com/in/yerga-dagnaw)
 * **Email:** [yerga968@gmail.com](mailto:yerga968@gmail.com)
-* **Portfolio:** *[Link your portfolio here]*
 
 ---
 
